@@ -12,3 +12,18 @@ https://msysgit.github.com
 
 Após concluir a instalação, você terá tanto uma versão command line (linha de comando, incluindo um cliente SSH que será útil depois) e uma GUI padrão.
 
+## Comandos
+
+#### Git Clone
+Clona um repositório remoto do Github para um repositório local
+
+#### Git Status
+Mostra a situação do stage e not stage do epositório local
+
+Stage - área de preparação, Not Stage local onde ficam os arquivos modificados e que ianda não foram adicionados a área do Stage.
+
+#### Git Add
+Adiciona um ou mais arquivos ao Stage.
+
+#### Git Reset
+Remove um ou mais arquivos do Stage.
